@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="New Target"
@@ -16,7 +16,9 @@
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
-  ShowMadCapBacklink="true">
+  ShowMadCapBacklink="true"
+  EnableSitemap="true"
+  SitemapWebUrl="https://2020oct12.mcoutputtest.com/rob/">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
